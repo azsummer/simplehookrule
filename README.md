@@ -1,0 +1,2 @@
+# -simplehookrule
+simplehook配置
